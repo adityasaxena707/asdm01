@@ -1,0 +1,27 @@
+Functional Requirment:
+
+Login
+
+Access Information (With there respective customer)
+
+handle complain & cases (Register custumor of their office or Forworded cases)
+
+Includes the description of the required functions, outlines of associated reports or online queries, and details of data to be held in the system.
+
+update Customer Information
+
+Logout
+
+Non Functional Requirement:
+
+Feedback Analysis
+
+Business Intelligency
+
+Rating Customer
+
+Rating Employee
+
+Payment Remainder
+
+Genrate Bill

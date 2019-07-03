@@ -1,0 +1,22 @@
+Problem Declaration & defination
+
+1.Cintoso which have 12 accross the globe wants to host a website fot their empolyee for accessing 
+the information of there corporate customer.
+2.Customer Information will be shown according to the registered office or according to the special
+case
+3.for A office all other office's customer details are read only accept the office itself details
+4.Customers cannot change there information (Customer login services)
+5.Customer can Make payment and See there Outstanding & Remaining Balance. 
+
+Actors:
+
+Customer(customerinfo,customer address,contact information,account no.)
+Employee(empid,emp address,emp contact information,customer id)
+
+Entity:
+
+Role
+Employee
+office
+Account
+customer
